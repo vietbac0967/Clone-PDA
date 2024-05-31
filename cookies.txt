@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+nhanmavach.com	TRUE	/	FALSE	1999999999	_landing_page	%2Frobots.txt
+nhanmavach.com	TRUE	/	FALSE	1999999999	cart	0cbe8bd02870d8b2224dce58a2f0831c
+nhanmavach.com	TRUE	/	FALSE	1999999999	cart_sig	368fb80d640cb6abd6ff144ce13180ea
+nhanmavach.com	TRUE	/	FALSE	1999999999	cart_currency	VND
+nhanmavach.com	TRUE	/	FALSE	1999999999	samesite	lax
+
